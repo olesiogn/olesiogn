@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Bachelor of Computer Science.
 - 💼 &nbsp; Working as a Test Analyst at Everis.
-- 📚 &nbsp; Learning more about Web Development.
+- 📚 &nbsp; Learning more test automation.
 
 <h3> 📫 How to reach me: </h3>
 <a href="https://www.linkedin.com/in/olesiogn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
