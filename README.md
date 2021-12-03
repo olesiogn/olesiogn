@@ -5,7 +5,7 @@
 <img align="right" src="./illustration.png" width="300">
 
 - 🎓 &nbsp; Bachelor of Computer Science.
-- 💼 &nbsp; Working as a Test Analyst at Everis.
+- 💼 &nbsp; Working as a Test Analyst at NTT DATA.
 - 📚 &nbsp; Learning more test automation.
 
 <h3> 📫 How to reach me: </h3>
